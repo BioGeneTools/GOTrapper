@@ -1,9 +1,0 @@
-358  GO:0097193  [BRCA1, BRCA2, JAK2] intrinsic apoptotic signaling pathway
-
-
-140  MF   GO:0070851   [ARF1, DDX3X, GBP1, GBP3, JAK2, MX1, MX2, RAB1A, RAC1, RAB14, GBP6]   growth factor receptor binding
-
-
-26  GO:0008608  
-[ARF6, BRCA2, CDC42, JAK2]   attachment of spindle microtubules to kinetochore
-
