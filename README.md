@@ -10,4 +10,7 @@ Enjoy!
 
 ## Contact: 
 You can reach me for any problems and guidance through hezha.hassan@hezhalab.com <br/>
-:) I'll enjoy to help. 
+:) I'll enjoy to help.
+
+## Citation:
+Hassan, Hezha, and Siba Shanak. "[GOTrapper: a tool to navigate through branches of gene ontology hierarchy.](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2581-8)" BMC bioinformatics 20.1 (2019): 1-6.
