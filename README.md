@@ -1,5 +1,5 @@
 # GOTrapper
-Database update: 10/2021
+Database update: 04/2023
 
 GOTrapper is a user-friendly, multiplatform tool which is written in Java language. This tool provides the ability to easily visit the levels of the Gene Ontology hierarchy. The tool aims in finding gene association between a desired set or two desired sets of genes and building new hypothesis. 
 
